@@ -1,1 +1,2 @@
-com.sarigama.key=value
+service:
+  name: General Properties from application.yml
