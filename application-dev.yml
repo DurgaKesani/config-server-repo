@@ -1,1 +1,3 @@
-
+service:
+  name: Development Profile from application_dev.yml
+  
