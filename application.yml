@@ -1,2 +1,9 @@
 service:
   name: General Properties from application.yml
+
+secret:
+  jwt:
+    secret-key:
+security:
+  jwt:
+    expiration_time: 360000
